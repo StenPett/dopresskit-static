@@ -1,6 +1,13 @@
 dopresskit-static
 =================
 
+## Forked from https://github.com/Dvergar/dopresskit-static
+
+Do not use yet, as I'm in the process of converting it from python2.7 to python3.9
+*There be dragons ahead!*
+
+### Original README file below
+
 dopresskit-static is a static version of the great [Rami Ismail's presskit()](https://github.com/ramiismail/dopresskit).
 
 If you don't wan't to rely on PHP you can use it with the same xml files & directory structure as the original presskit().
